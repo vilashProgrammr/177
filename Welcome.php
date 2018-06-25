@@ -1,3 +1,3 @@
 <?php
-echo "Welcome to the Programmr";
+echo "Welcome to the ";
 ?>
